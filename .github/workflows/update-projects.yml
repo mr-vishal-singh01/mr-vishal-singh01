@@ -1,0 +1,33 @@
+name: Update Projects
+
+on: 
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+    - master
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python @v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install httpx
+      - name: Update README
+        run: python3 scripts/update_projects.py
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git diff --quiet && git diff --cached --quiet || git commit -m "chres: Automated README update with latest projects"
+          git push origin HEAD
