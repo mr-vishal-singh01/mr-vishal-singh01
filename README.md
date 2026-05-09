@@ -8,7 +8,7 @@
   <a href='https://github.com/mr-vishal-singh01'>
     <img src='https://img.shields.io/badge/2026%20Status-Building%20Autonomous%20Futures-blueviolet?style=for-the-badge&logo=rocket' />
   </a>
-  <a href='mailto:vishalchauchn01@gmail.com'>
+  <a href='mailto:vishalchauhan01@gmail.com'>
     <img src='https://img.shields.io/badge/Contact-Hire%20Me-success?style=for-the-badge&logo=gmail' />
   </a>
 </p>
@@ -27,6 +27,9 @@
 > *Automatically updated technical evidence.*
 
 <!-- PROJECTS_START -->
+- [🛡️ BTech-Pentesting-Labs](https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs) - A collection of automated penetration testing and DevSecOps labs.
+- [📡 Wireless-Security-Analysis](https://github.com/mr-vishal-singh01/Wireless-Security-Analysis) - Professional auditing of wireless network infrastructures.
+- [🤖 Ollama-MCP-Orchestrator](https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator) - Intelligent management of local LLMs and Model Context Protocol servers.
 <!-- PROJECTS_END -->
 
 ---
@@ -66,8 +69,8 @@
 
 ### 📫 Connect with me
 <p align='left'>
-  <a href='https://linkedin.com/in/Vishalchauchn01'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white' /></a>
-  <a href='mailto:vishalchauchn01@gmail.com'><img src='https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white' /></a>
+  <a href='https://linkedin.com/in/VishalChauhan01'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white' /></a>
+  <a href='mailto:vishalchauhan01@gmail.com'><img src='https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white' /></a>
 </p>
 
 <p align='center'>
