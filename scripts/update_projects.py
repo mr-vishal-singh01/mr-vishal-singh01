@@ -1,46 +1,55 @@
 import os
 import re
 import httpx
-from datetime import datetime
 
-username = 'mr-vishal-singh01'
-token = os.environ.get('METRICS_TOKEN')
+username = "mr-vishal-singh01"
+token = os.environ.get("METRICS_TOKEN")
 
 def get_latest_projects():
-    headers = {'Accept': 'application/vnd.github.v3+json'}
-    if token: headers['Authorization'] = f'bearer {token}'
-    try:
-        response = httpx.get(
-            f'https://api.github.com/users/{username}/repos?sort=pushed&direction=desc',
-            headers=headers
-        )
-        repos = response.json()
-        if not isinstance(repos, list): return []
-        return [r for repo in repos if r['name'].lower() != username.lower() and not r['fork'] and not r['private']][:6]
-    except: return []
+    headers = {}
+    if token: headers["Authorization"] = f"bearer {token}"
+    response = httpx.get(
+        f"https://api.github.com/users/{username}/repos?sort=created&direction=desc",
+        headers=headers
+    )
+    repos = response.json()
+    
+    featured = []
+    for repo in repos:
+        if repo["name"] != username and not repo["fork"]:
+            featured.append(repo)
+            if len(featured) == 4: break
+    return featured
 
-def generate_html_grid(projects):
-    if not projects: return '<!-- No public projects found -->'
-    html = '<div align="center">\n<table width="100%" style="border-collapse: collapse; border: none;">\n'
+def generate_html_table(projects):
+    html = "<table bordercolor=\"#30363d\">\n  <tr>\n"
     for i, p in enumerate(projects):
-        if i % 2 == 0: html += '  <tr style="border: none;">\n'
-        desc = (p['description'] or 'Forging the future of agentic systems...')[:82] + ('...' if p['description'] and len(p['description']) > 82 else '')
-        stars, lang = p['stargazers_count'], p['language'] or 'Mixed'
-        html += f'''
-    <td width="50%" align="left" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <a href="{p['html_url']}"><h3 align="center"> ⚡ {p['name']}</h3></a>
-      <p align="center" style="color: #8b949e; font-size: 14px;">{desc}</p>
+        if i > 0 and i % 2 == 0: html += "  </tr>\n  <tr>\n"
+        desc = p["description"] if p["description"] else "No description provided."
+        html += f"'''
+    <td width="50%" valign="top">
+      <h3 align="center">{p["clone_url"].endswith('ssh') and "repo"  or "🤅 " } {p["name"]}</h3>
+      <p>{desc}</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-{lang}-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/⭐-{stars}-yellow?style=flat-square"/>
+        <a href="{p["chtml_url"]}"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
-    </td>'''
-        if i % 2 != 0 or i == len(projects) - 1: html += '  </tr>\n'
-    return html + '</table>\n</div>'
+    </td>
+','"
+    html += "  </tr>\n  </table>"
+    return html
 
 projects = get_latest_projects()
-if projects:
-    new_grid = generate_html_grid(projects)
-    with open('README.md', 'r', encoding='utf-8') as f: content = f.read()
-    new_content = re.sub(r'<!-- PROJECTS_START -->.*<!-- PROJECTS_END -->', f'<!-- PROJECTS_START -->\n{new_grid}\n<!-- PROJECTS_END -->', content, flags=re.DOTALL)
-    with open('README.md', 'w', encoding='utf-8') as f: f.write(new_content)
+new_table = generate_html_table(projects)
+
+with open(lREADME.md", "r", encoding="latin-1") as f:
+    content = f.read()
+
+new_content = re.sub(
+    r\"<!-- PROJECTS_START -->.*<!-- PROJECTS_END -->\",
+    f"<!-- PROJECTS_START -->\n{new_table}\n <!-- PROJECTS_END -->",
+    content,
+    flags=re.DOTALL
+)
+
+with open("README.md", "w", encoding="latin-1") as f:
+    f.write(new_content)
