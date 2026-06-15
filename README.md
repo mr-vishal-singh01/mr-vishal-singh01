@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Vishal%20Chauhan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Vishal%20Chauhan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <h3>⚡ AI/ML Engineer | 🛡 Cybersecurity Researcher | 😸 Systems Architect</h3>
+  <h3>⚡ <font color="#FFA500">AI/ML Engineer</font> | 🛡️ <font color="#FF4500">Cybersecurity Researcher</font> | 😸 <font color="#FF7F50">Systems Architect</font></h3>
   <p><i>Building autonomous, intelligent systems that secure and scale.</i></p>
 </div>
 
@@ -16,84 +16,84 @@
 
 <br>
 
-## 🏛️ Digital Garden & Knowledge Repository
+## 🏛️ <font color="#FF8C00">Digital Garden & Knowledge Repository</font>
 
-> [!TIP]
-> **[<font color="#44cc11">EXPLORE THE FULL KNOWLEDGE BASE</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+> [!IMPORTANT]
+> **[<font color="#FFA500">EXPLORE THE FULL KNOWLEDGE BASE</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
 > <br>
-> [![Wiki](https://img.shields.io/badge/Knowledge_Base-44cc11?style=for-the-badge&logo=githubbook&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-ff0000?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
+> [![Wiki](https://img.shields.io/badge/Knowledge_Base-FFA500?style=for-the-badge&logo=githubbook&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-FF4500?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
 > <br>
 > This ecosystem serves as an evolving **Digital Garden**, centralizing my architectural research, technical methodologies, and intellectual property across the AI and Cybersecurity domains.
 
-### 🧭 Strategic Wiki Navigation
+### 🧭 <font color="#FF7F50">Strategic Wiki Navigation</font>
 
 <div align="center">
 
-| 📘 [<font color="#44cc11">**Knowledge Home**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [<font color="#ff0000">**Identity & Bio**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [<font color="#44cc11">**Technical Skills**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
+| 📘 [<font color="#FFA500">**Knowledge Home**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [<font color="#FF6347">**Identity & Bio**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [<font color="#FF4500">**Technical Skills**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
 | :---: | :---: | :---: |
-| 🚀 [<font color="#ff0000">**Active Projects**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [<font color="#44cc11">**Career Roadmap**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [<font color="#ff0000">**Learning Labs**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
-| ⚙️ [<font color="#44cc11">**Full Tech Stack**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [<font color="#ff0000">**Open Initiatives**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [<font color="#44cc11">**Contact Hub**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
+| 🚀 [<font color="#FF7F50">**Active Projects**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [<font color="#FFA500">**Career Roadmap**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [<font color="#FF4500">**Learning Labs**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
+| ⚙️ [<font color="#FF6347">**Full Tech Stack**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [<font color="#FF7F50">**Open Initiatives**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [<font color="#FFA500">**Contact Hub**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 <font color="#FF8C00">About Me</font>
 I am a **B.Tech student at Krishna Group of Institutions** operating at the convergence of **Artificial Intelligence** and **Cybersecurity**. I specialize in developing autonomous, local-first agents using the **Model Context Protocol (MCP)** to bridge Large Language Models with complex penetration testing and system administration tools. My work focuses on building privacy-centric AI solutions that provide high-level reasoning and autonomous tool-chaining on consumer-grade hardware.
 
-**💡 Read more in [<font color="#44cc11">About Me Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
+**💡 Read more in [<font color="#FFA500">About Me Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
 
 ---
 
-## 💻 Featured Engineering
+## 💻 <font color="#FF8C00">Featured Engineering</font>
 
 <!-- PROJECTS_START -->
-<table bordercolor="#30363d">
+<table bordercolor="#FF4500">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Ollama MCP Orchestrator</h3>
+      <h3 align="center">🤖 <font color="#FFA500">Ollama MCP Orchestrator</font></h3>
       <p>A high-performance Python orchestrator bridging local Ollama LLMs with 200+ cybersecurity tools. Features autonomous tool-chaining, hardware-aware optimization, and smart context management for secure, offline operations.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ BTech Pentesting Labs</h3>
+      <h3 align="center">🛡️ <font color="#FF7F50">BTech Pentesting Labs</font></h3>
       <p>A comprehensive collection of cybersecurity research and labs conducted during my B.Tech studies. Focuses on network vulnerability analysis, exploit development, and defensive security posture engineering.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ Student Management System</h3>
+      <h3 align="center">🛠️ <font color="#FF6347">Student Management System</font></h3>
       <p>A robust C-based system for academic and financial record management. Implements binary file persistence, complex CRUD operations for 14 essential data fields, and a high-efficiency search engine.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📡 Wireless Security Analysis</h3>
+      <h3 align="center">📡 <font color="#FFA500">Wireless Security Analysis</font></h3>
       <p>Research and tools for analyzing wireless network vulnerabilities. Covers WPA/WPA2/WPA3 auditing techniques, rogue access point detection, and advanced packet injection analysis.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 Open Claude Co-Work</h3>
+      <h3 align="center">🤝 <font color="#FF7F50">Open Claude Co-Work</font></h3>
       <p>An open-source collaboration framework designed to integrate AI co-working capabilities directly into development environments, enhancing team productivity through local AI assistance.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">✨ More Projects</h3>
-      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 [<font color="#ff0000">View All in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects)</strong></p>
+      <h3 align="center">✨ <font color="#FF6347">More Projects</font></h3>
+      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 [<font color="#FFA500">View All in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects)</strong></p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
@@ -102,7 +102,7 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ <font color="#FF8C00">Tech Stack & Skills</font>
 
 <div align="center">
   <b>Languages:</b><br>
@@ -133,35 +133,35 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 <br>
 
 <div align="center">
-  <strong>📖 [<font color="#44cc11">View Detailed Tech Stack in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack)</strong>
+  <strong>📖 [<font color="#FFA500">View Detailed Tech Stack in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack)</strong>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-vishal-singh01&show_icons=true&theme=tokyonight" alt="Vishal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vishal-singh01&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-vishal-singh01&show_icons=true&title_color=FFA500&text_color=ffffff&icon_color=FF4500&bg_color=0D1117&border_color=FF8C00" alt="Vishal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vishal-singh01&layout=compact&title_color=FFA500&text_color=ffffff&icon_color=FF4500&bg_color=0D1117&border_color=FF8C00" alt="Top Languages" />
 </div>
 
 ---
 
-## 🌟 Areas of Expertise
+## 🌟 <font color="#FF8C00">Areas of Expertise</font>
 
 <div align="center">
 
-### 🤖 AI/ML Engineering & Autonomous Agents
+### 🤖 <font color="#FFA500">AI/ML Engineering & Autonomous Agents</font>
 <img src="https://img.shields.io/badge/LangGraph-2ea44f?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCP-Blue?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <p align="center">
 Architecting <b>Stateful ReAct Agents</b> and local-first orchestrators. Specialized in bridging LLMs with complex toolsets using the <b>Model Context Protocol</b> for autonomous, privacy-centric reasoning and multi-step task execution.
 </p>
 
-### 🛡️ Offensive & Defensive Cybersecurity
+### 🛡️ <font color="#FF4500">Offensive & Defensive Cybersecurity</font>
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <p align="center">
 Conducting <b>AI-Augmented Penetration Testing</b> and wireless infrastructure auditing (WPA3/WPA2). Focused on exploit research, vulnerability validation, and designing secure-by-default systems for critical data environments.
 </p>
 
-### 💻 Polyglot Systems & Infrastructure
+### 💻 <font color="#FF7F50">Polyglot Systems & Infrastructure</font>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <p align="center">
 Engineering <b>High-Performance Applications</b> and autonomous <b>CI/CD Pipelines</b>. Proficient in binary file handling, multi-platform build systems (CMake), and containerized deployments using <b>Docker</b> and <b>Linux</b> hardening.
@@ -171,7 +171,7 @@ Engineering <b>High-Performance Applications</b> and autonomous <b>CI/CD Pipelin
 
 ---
 
-## 🧠 Institutional Knowledge & Documentation
+## 🧠 <font color="#FF8C00">Institutional Knowledge & Documentation</font>
 
 This repository serves as a centralized **Knowledge Repository**, hosting comprehensive documentation on my technical journey, architectural methodologies, and research findings.
 
@@ -188,19 +188,19 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 <br>
 
-[**🚀 [<font color="#44cc11">ACCESS THE FULL PROFESSIONAL WIKI</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**]
+[**🚀 [<font color="#FFA500">ACCESS THE FULL PROFESSIONAL WIKI</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**]
 
 </div>
 
 ---
 
-## 🔗 Connectivity Hub
+## 🔗 <font color="#FF8C00">Connectivity Hub</font>
 
 <div align="center">
 
 | Destination | Primary Function | Access Link |
 | :--- | :--- | :--- |
-| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [<font color="#44cc11">**Explore Knowledge Base**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
+| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [<font color="#FFA500">**Explore Knowledge Base**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
 | **💼 LinkedIn Network** | Professional connections & career milestones | [**Connect on LinkedIn**](https://linkedin.com/in/vishal-chauhan-620283378) |
 | **✍️ Technical Writing** | Deep dives into AI, Cybersecurity, & Systems Engineering | [**Read Articles**](https://medium.com/@Mrvishalsinghchauhan) |
 | **📂 Project Portfolio** | Source code, technical demos, and experimental research | [**Browse Repositories**](https://github.com/mr-vishal-singh01) |
@@ -210,7 +210,7 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 ---
 
-## 🤝 Strategic Engagement & Collaboration
+## 🤝 <font color="#FF8C00">Strategic Engagement & Collaboration</font>
 
 I am always open to discussing technical challenges, research initiatives, and innovative partnerships. Whether you are looking to collaborate on a project or exchange technical insights, feel free to reach out.
 
@@ -219,11 +219,11 @@ I am always open to discussing technical challenges, research initiatives, and i
 - **📚 Knowledge Exchange:** Engaging in technical mentorship, security research projects, and community-driven innovation.
 - **🎯 Strategic Inquiries:** Discussing complex architectural challenges, system design, or potential project collaborations.
 
-**📖 [<font color="#ff0000">Visit the Contact & Engagement Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social)** for a detailed guide on how to connect and collaborate.
+**📖 [<font color="#FF4500">Visit the Contact & Engagement Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social)** for a detailed guide on how to connect and collaborate.
 
 ---
 
-## 📜 Governance & Project Policies
+## 📜 <font color="#FF8C00">Governance & Project Policies</font>
 
 To maintain high standards of transparency and engineering excellence, the following policies apply to all repositories in this ecosystem:
 
@@ -234,8 +234,8 @@ To maintain high standards of transparency and engineering excellence, the follo
 
 <div align="center">
   <p><i><b>Engineering secure, autonomous systems for the next generation of computing.</b></i></p>
-  <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=0E75B6&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=FF8C00&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
   <br><br>
-  <p>Explore the <strong>[<font color="#44cc11">Professional Knowledge Base</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)</strong> for architectural deep-dives.</p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2&width=400&section=footer" />
+  <p>Explore the <strong>[<font color="#FFA500">Professional Knowledge Base</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)</strong> for architectural deep-dives.</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF8C00&height=2&width=400&section=footer" />
 </div>
