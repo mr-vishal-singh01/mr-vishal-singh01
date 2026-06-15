@@ -34,8 +34,7 @@
 ---
 
 ## 🚀 About Me
-
-I am a 20-year-old **B.Tech student at Krishna Group of Institutions** operating at the intersection of **Artificial Intelligence** and **Offensive/Defensive Cybersecurity**. I specialize in wrapping large language models with cybersecurity tools for comprehensive security analysis and autonomous threat detection.
+I am a **B.Tech student at Krishna Group of Institutions** operating at the convergence of **Artificial Intelligence** and **Cybersecurity**. I specialize in developing autonomous, local-first agents using the **Model Context Protocol (MCP)** to bridge Large Language Models with complex penetration testing and system administration tools. My work focuses on building privacy-centric AI solutions that provide high-level reasoning and autonomous tool-chaining on consumer-grade hardware.
 
 **💡 Read more in [About Me Wiki](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
 
@@ -47,47 +46,47 @@ I am a 20-year-old **B.Tech student at Krishna Group of Institutions** operating
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ BTech Pentesting Labs</h3>
-      <p>A comprehensive collection of cybersecurity labs and research conducted during my B.Tech studies, focusing on network security and exploit development.</p>
+      <h3 align="center">🤖 Ollama MCP Orchestrator</h3>
+      <p>A high-performance Python orchestrator bridging local Ollama LLMs with 200+ cybersecurity tools. Features autonomous tool-chaining, hardware-aware optimization, and smart context management for secure, offline operations.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Ollama MCP Orchestrator</h3>
-      <p>A high-performance Python orchestrator bridging local Ollama LLMs with 200+ cybersecurity tools. Features autonomous tool-chaining and smart context management.</p>
+      <h3 align="center">🛡️ BTech Pentesting Labs</h3>
+      <p>A comprehensive collection of cybersecurity research and labs conducted during my B.Tech studies. Focuses on network vulnerability analysis, exploit development, and defensive security posture engineering.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📡 Wireless Security Analysis</h3>
-      <p>Tools and scripts for analyzing wireless network vulnerabilities, including WPA/WPA2 cracking techniques and rogue access point detection.</p>
+      <h3 align="center">🛠️ Student Management System</h3>
+      <p>A robust C-based system for academic and financial record management. Implements binary file persistence, complex CRUD operations for 14 essential data fields, and a high-efficiency search engine.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ Student Management System</h3>
-      <p>A professional, menu-driven C application featuring persistent binary storage, multi-platform CMake support, and automated GitHub Actions CI/CD workflows.</p>
+      <h3 align="center">📡 Wireless Security Analysis</h3>
+      <p>Research and tools for analyzing wireless network vulnerabilities. Covers WPA/WPA2/WPA3 auditing techniques, rogue access point detection, and advanced packet injection analysis.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤝 Open Claude Co-Work</h3>
-      <p>An open-source collaboration tool designed to integrate AI co-working capabilities directly into development workflows.</p>
+      <p>An open-source collaboration framework designed to integrate AI co-working capabilities directly into development environments, enhancing team productivity through local AI assistance.</p>
       <div align="center">
         <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✨ More Projects</h3>
-      <p>Check out my other repositories for more tools, experiments, and research in AI and Cybersecurity. <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects">View All in Wiki</a></strong></p>
+      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects">View All in Wiki</a></strong></p>
       <div align="center">
         <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
@@ -101,14 +100,29 @@ I am a 20-year-old **B.Tech student at Krishna Group of Institutions** operating
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <b>Languages:</b><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
+  <b>AI/ML & Agentic Frameworks:</b><br>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Blue?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastMCP-Orange?style=for-the-badge" />
+  <br><br>
+  <b>Cybersecurity & Pentesting:</b><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <br><br>
+  <b>Tools & Infrastructure:</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 <br>
