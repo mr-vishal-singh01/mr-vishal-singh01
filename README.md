@@ -146,12 +146,36 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 <div align="center">
 
-| 🤖 AI/ML & Agentic Systems | 🛡️ Offensive & Defensive Security | 💻 Systems & Infrastructure |
-| :--- | :--- | :--- |
-| **Autonomous Orchestration:** Architecting ReAct-based agents using **LangGraph** for complex reasoning. | **AI-Augmented Pentesting:** Leveraging LLMs to automate vulnerability discovery and threat hunting. | **High-Performance C/Python:** Engineering low-latency applications with optimized binary persistence. |
-| **Model Context Protocol (MCP):** Bridging local LLMs with system-level tools via standardized protocols. | **Wireless Protocol Research:** Deep auditing of **WPA3/WPA2**, packet injection, and signal analysis. | **Autonomous CI/CD:** Engineering self-healing DevOps pipelines via **GitHub Actions** & **CMake**. |
-| **Hardware-Aware AI:** Scaling model inference across **Apple Silicon**, **NVIDIA CUDA**, and edge tiers. | **Exploit Development:** Researching and weaponizing vulnerabilities for secure infrastructure validation. | **Containerized Ecosystems:** Orchestrating complex microservices using **Docker** & **Linux** hardening. |
-| **Privacy-Centric LLMs:** Deploying high-trust, 100% offline ecosystems using **Ollama** & **Qwen**. | **Security Posture Design:** Designing secure-by-default architectures for financial and academic systems. | **Strategic Tooling:** Developing real-time command-and-control (C2) interfaces using **Streamlit**. |
+### 🤖 AI/ML Engineering & Orchestration
+```python
+class AgenticWorkflow:
+    frameworks = ["LangGraph", "ReAct", "MCP"]
+    capabilities = {
+        "autonomous_reasoning": "Stateful multi-turn orchestration",
+        "tool_integration": "Standardized local MCP bridging",
+        "hardware_scaling": ["Apple Silicon", "NVIDIA CUDA", "Edge"]
+    }
+    privacy_policy = "100% Offline / Local-First (Ollama)"
+```
+
+### 🛡️ Offensive & Defensive Cybersecurity
+```bash
+# Security Operations Matrix
+RECON_SCANNING    => ["Nmap", "Metasploit", "AI-Augmented Discovery"]
+WIRELESS_AUDIT    => ["WPA3/WPA2 Analysis", "Packet Injection"]
+EXPLOIT_RESEARCH  => ["Vulnerability Validation", "Custom Payloads"]
+HARDENING         => ["Secure-by-Default Architecture", "C2 Design"]
+```
+
+### 💻 Systems Architecture & Polyglot Dev
+```c
+struct SystemsEngineering {
+    char* languages[] = {"C", "Python", "Bash", "SQL", "Go (Active)"};
+    char* performance = "Low-Latency / Binary Persistence";
+    char* devops = "GitHub Actions / CMake / Docker Hub";
+    char* interface = "Streamlit / Advanced CLI Tooling";
+};
+```
 
 </div>
 
