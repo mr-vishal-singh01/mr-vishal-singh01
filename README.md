@@ -27,17 +27,49 @@ I am a 20-year-old **B.Tech student at Krishna Group of Institutions** operating
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛡️ BTech Pentesting Labs</h3>
+      <p>A comprehensive collection of cybersecurity labs and research conducted during my B.Tech studies, focusing on network security and exploit development.</p>
+      <div align="center">
+        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Ollama MCP Orchestrator</h3>
+      <p>A high-performance Python orchestrator bridging local Ollama LLMs with 200+ cybersecurity tools. Features autonomous tool-chaining and smart context management.</p>
+      <div align="center">
+        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 Wireless Security Analysis</h3>
+      <p>Tools and scripts for analyzing wireless network vulnerabilities, including WPA/WPA2 cracking techniques and rogue access point detection.</p>
+      <div align="center">
+        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🛠️ Student Management System</h3>
       <p>A professional, menu-driven C application featuring persistent binary storage, multi-platform CMake support, and automated GitHub Actions CI/CD workflows.</p>
       <div align="center">
         <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Ollama MCP Orchestrator</h3>
-      <p>A high-performance Python orchestrator bridging local Ollama LLMs with 200+ cybersecurity tools. Features autonomous tool chaining and smart context management.</p>
+      <h3 align="center">🤝 Open Claude Co-Work</h3>
+      <p>An open-source collaboration tool designed to integrate AI co-working capabilities directly into development workflows.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ More Projects</h3>
+      <p>Check out my other repositories for more tools, experiments, and research in AI and Cybersecurity.</p>
+      <div align="center">
+        <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
   </tr>
