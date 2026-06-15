@@ -97,32 +97,49 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Ecosystem
 
 <div align="center">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br><br>
-  <b>AI/ML & Agentic Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-Blue?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastMCP-Orange?style=for-the-badge" />
-  <br><br>
-  <b>Cybersecurity & Pentesting:</b><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <br><br>
-  <b>Tools & Infrastructure:</b><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <table border="0">
+    <tr>
+      <td valign="top" width="25%">
+        <h4 align="center">💻 Languages</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C-0E75B6?style=flat-square&logo=c&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Python-0E75B6?style=flat-square&logo=python&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Bash-0E75B6?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/SQL-0E75B6?style=flat-square&logo=mysql&logoColor=white" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">🤖 AI/ML & Agents</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Ollama-0E75B6?style=flat-square&logo=ollama&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/MCP-0E75B6?style=flat-square&logo=modelcontextprotocol&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/LangGraph-0E75B6?style=flat-square" /><br>
+          <img src="https://img.shields.io/badge/FastMCP-0E75B6?style=flat-square" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">🛡️ Cybersecurity</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Linux-0E75B6?style=flat-square&logo=linux&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Metasploit-0E75B6?style=flat-square&logo=metasploit&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Nmap-0E75B6?style=flat-square&logo=nmap&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Wireshark-0E75B6?style=flat-square&logo=wireshark&logoColor=white" />
+        </p>
+      </td>
+      <td valign="top" width="25%">
+        <h4 align="center">⚙️ Infrastructure</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Docker-0E75B6?style=flat-square&logo=docker&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Git-0E75B6?style=flat-square&logo=git&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/CMake-0E75B6?style=flat-square&logo=cmake&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Streamlit-0E75B6?style=flat-square&logo=streamlit&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
