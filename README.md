@@ -166,19 +166,26 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 ---
 
-## 📖 Comprehensive Wiki Available
+## 🧠 Institutional Knowledge & Documentation
 
-This repository includes a **comprehensive professional wiki** with:
+This repository serves as a centralized **Knowledge Repository**, hosting comprehensive documentation on my technical journey, architectural methodologies, and research findings.
 
-- ✅ **Complete career journey** and background
-- ✅ **Detailed technical skills** breakdown
-- ✅ **All projects explained** with technologies
-- ✅ **Learning resources** and educational materials
-- ✅ **Tech stack analysis** and tool preferences
-- ✅ **Open source philosophy** and contributions
-- ✅ **Contact information** and collaboration opportunities
+<div align="center">
 
-**👉 [VISIT THE WIKI NOW](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+| Knowledge Domain | Documentation Scope |
+| :--- | :--- |
+| **🏆 Professional Journey** | Career milestones, educational background, and core mission |
+| **🛡️ Technical Specializations** | In-depth breakdown of AI, Cybersecurity, and Engineering skills |
+| **🚀 Project Architecture** | Comprehensive technical deep-dives into all developed ecosystems |
+| **📚 Learning Frameworks** | Curated educational resources and advanced technical materials |
+| **🛠️ Tech Stack Analysis** | Detailed analysis of tools, languages, and infrastructure preferences |
+| **🌐 Open Source Ethos** | Philosophy on community contribution and collaborative innovation |
+
+<br>
+
+[**🚀 ACCESS THE FULL PROFESSIONAL WIKI**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)
+
+</div>
 
 ---
 
