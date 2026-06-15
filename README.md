@@ -16,9 +16,11 @@
 
 <br>
 
-## 📚 Professional Wiki & Knowledge Base
+## 🏛️ Digital Garden & Knowledge Repository
 
-> **👉 [VISIT MY PROFESSIONAL WIKI](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)** for comprehensive documentation on my expertise, projects, and journey.
+> [!IMPORTANT]
+> **[EXPLORE THE FULL KNOWLEDGE BASE](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+> This ecosystem serves as an evolving **Digital Garden**, centralizing my architectural research, technical methodologies, and intellectual property across the AI and Cybersecurity domains.
 
 ### 🧭 Strategic Wiki Navigation
 
