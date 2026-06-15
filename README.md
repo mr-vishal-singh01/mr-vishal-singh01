@@ -212,9 +212,9 @@ I am always open to discussing technical challenges, research initiatives, and i
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=0E75B6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <p><strong>Building the future, one secure line of code at a time. 🚀</strong></p>
-  
-  <p>Explore my <strong><a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki">professional wiki</a></strong> for comprehensive information!</p>
+  <p><i><b>Engineering secure, autonomous systems for the next generation of computing.</b></i></p>
+  <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=0E75B6&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
+  <br><br>
+  <p>Explore the <strong><a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki">Professional Knowledge Base</a></strong> for architectural deep-dives.</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2&width=400&section=footer" />
 </div>
