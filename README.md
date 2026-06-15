@@ -18,8 +18,15 @@
 
 ## 🏛️ Digital Garden & Knowledge Repository
 
-> [!IMPORTANT]
-> **[EXPLORE THE FULL KNOWLEDGE BASE](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+<div align="center">
+  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki">
+    <img src="https://img.shields.io/badge/EXPLORE_THE_FULL_KNOWLEDGE_BASE-44cc11?style=for-the-badge&logo=githubbook&logoColor=white" />
+  </a>
+  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices">
+    <img src="https://img.shields.io/badge/SECURITY_PROTOCOLS-ff0000?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+</div>
+
 > This ecosystem serves as an evolving **Digital Garden**, centralizing my architectural research, technical methodologies, and intellectual property across the AI and Cybersecurity domains.
 
 ### 🧭 Strategic Wiki Navigation
