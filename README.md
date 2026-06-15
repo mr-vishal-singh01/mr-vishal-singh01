@@ -220,6 +220,15 @@ I am always open to discussing technical challenges, research initiatives, and i
 
 ---
 
+## 📜 Governance & Project Policies
+
+To maintain high standards of transparency and engineering excellence, the following policies apply to all repositories in this ecosystem:
+
+- **🛡️ [Security Policy](https://github.com/mr-vishal-singh01/mr-vishal-singh01/blob/main/SECURITY.md):** Guidelines for responsible disclosure and vulnerability reporting.
+- **💎 [Quality Standards](https://github.com/mr-vishal-singh01/mr-vishal-singh01/blob/main/quality.md):** Detailed engineering conventions, testing rigor, and QA protocols.
+
+---
+
 <div align="center">
   <p><i><b>Engineering secure, autonomous systems for the next generation of computing.</b></i></p>
   <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=0E75B6&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
