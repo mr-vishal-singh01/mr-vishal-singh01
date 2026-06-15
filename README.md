@@ -144,23 +144,23 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 <div align="center">
 
-### 🤖 AI/ML Engineering
-- LLM Orchestration & Integration
-- Autonomous Agent Development
-- Machine Learning Models
-- AI-Powered Security Analysis
+### 🤖 AI/ML Engineering & Orchestration
+- **Autonomous Agentic Workflows:** Architecting self-reasoning agents using **LangGraph**, **ReAct** paradigms, and stateful orchestration.
+- **Model Context Protocol (MCP):** Specialized in local-first tool integration, bridging LLMs with complex system utilities and custom APIs.
+- **Hardware-Aware Optimization:** Scaling LLM performance (Qwen, Llama 3.x) across hardware tiers, from dedicated GPUs to resource-constrained edge devices.
+- **Privacy-First AI:** Deploying 100% offline, secure AI ecosystems leveraging **Ollama** for confidential data processing.
 
-### 🛡️ Cybersecurity Research
-- Penetration Testing & Exploitation
-- Wireless Network Security
-- Vulnerability Assessment
-- Exploit Development
+### 🛡️ Offensive & Defensive Cybersecurity
+- **AI-Augmented Pentesting:** Integrating autonomous agents with **Metasploit**, **Nmap**, and custom tools for intelligent vulnerability discovery.
+- **Wireless Infrastructure Auditing:** Advanced research into **WPA/WPA2/WPA3** protocols, packet injection, and rogue access point mitigation.
+- **Exploit Research & Development:** Engineering custom scripts and payloads for complex vulnerability validation and network-level security testing.
+- **Security Posture Engineering:** Designing hardened, secure-by-default architectures for critical student and financial data management.
 
-### 💻 Systems Architecture
-- Efficient Systems Design
-- Performance Optimization
-- DevOps & Automation
-- CI/CD Pipeline Development
+### 💻 Systems Architecture & DevOps
+- **High-Efficiency Systems:** Developing resource-optimized applications in **C** and **Python** featuring persistent binary storage and low-latency logic.
+- **Autonomous DevOps Pipelines:** Automating software lifecycles via **GitHub Actions** and **CMake** for seamless multi-platform distribution.
+- **Containerization & Deployment:** Streamlining complex toolchains and microservices using **Docker** for consistent, reproducible environments.
+- **Technical Interface Design:** Building high-performance, real-time command-and-control interfaces using **Streamlit** and advanced CLI frameworks.
 
 </div>
 
