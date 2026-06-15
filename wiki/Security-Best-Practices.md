@@ -1,2 +1,233 @@
-# 🔐 Security Best Practices & Tips\n\n## From My Research & Experience\n\n## 🛡️ General Security Principles\n\n### 1. Defense in Depth\n**Concept:** Multiple layers of security controls\n\n**Implementation:**\n```\nNetwork Security (Firewalls)\n    ↓\nApplication Security (Input validation)\n    ↓\nData Security (Encryption)\n    ↓\nAccess Control (Authentication)\n```\n\n**Best Practices:**\n- ✅ Never rely on single security control\n- ✅ Implement multiple layers\n- ✅ Test each layer independently\n- ✅ Assume each layer might be breached\n\n---\n\n### 2. Principle of Least Privilege\n**Concept:** Give minimal necessary permissions\n\n**Examples:**\n- ✅ Users only need required permissions\n- ✅ Applications run with minimal privileges\n- ✅ Database accounts have limited roles\n- ✅ APIs only access needed resources\n\n**Benefits:**\n- Limits damage from compromised accounts\n- Reduces attack surface\n- Easier to audit and manage\n- Better compliance\n\n---\n\n### 3. Security by Design\n**Concept:** Build security in from the start\n\n**Don't do:**\n- ❌ Add security later\n- ❌ Patch vulnerabilities after discovery\n- ❌ Ignore security in development\n\n**Instead:**\n- ✅ Consider threats during design\n- ✅ Implement security features from start\n- ✅ Regular security reviews\n- ✅ Threat modeling exercises\n\n---\n\n## 🔑 Authentication & Access Control\n\n### 1. Strong Password Policies\n\n**Requirements:**\n- ✅ Minimum 12-16 characters\n- ✅ Mix of upper, lower, numbers, special chars\n- ✅ No dictionary words\n- ✅ Unique per account\n- ✅ Changed regularly (90 days)\n\n**DO NOT:**\n- ❌ Use personal information\n- ❌ Reuse passwords\n- ❌ Share passwords\n- ❌ Store in plain text\n- ❌ Use password hints\n\n**Example Strong Password:**\n```\n7Kx$mP2@vQ9wL#\n```\n\n---\n\n### 2. Multi-Factor Authentication (MFA)\n**What is it?** Multiple verification methods\n\n**Types:**\n- **Something you know:** Password\n- **Something you have:** Phone, security key\n- **Something you are:** Fingerprint, face\n- **Somewhere you are:** Location verification\n\n**Recommendation:** Use at least 2 factors\n- ✅ Email + password + TOTP authenticator\n- ✅ Password + security key\n- ✅ Password + SMS + email verification\n\n---\n\n### 3. Session Management\n\n**Best Practices:**\n- ✅ Use secure session tokens (256-bit)\n- ✅ Set session timeouts (15-30 min for sensitive)\n- ✅ Use HTTPOnly and Secure cookies\n- ✅ Invalidate sessions on logout\n- ✅ Regenerate session IDs on login\n\n**Avoid:**\n- ❌ Storing passwords in sessions\n- ❌ Session IDs in URLs\n- ❌ Overly long session timeouts\n- ❌ Unencrypted session data\n\n---\n\n## 🔒 Data Security\n\n### 1. Encryption\n\n#### At Rest (Data Storage)\n```\nSensitive Data → Encrypt → Encrypted Storage\n```\n\n**Methods:**\n- ✅ AES-256 for sensitive data\n- ✅ Hash passwords (bcrypt, Argon2)\n- ✅ Encrypt database fields\n- ✅ Encrypted backups\n\n#### In Transit (Data Transfer)\n```\nClient → Encrypt → Network → Decrypt → Server\n```\n\n**Methods:**\n- ✅ HTTPS/TLS 1.2+ for web\n- ✅ VPN for internal networks\n- ✅ SSH for remote access\n- ✅ Signed certificates\n\n### 2. Hash vs Encryption\n\n**Hashing:**\n```\nPassword → Hash → Cannot reverse\nUse for: Password storage\n```\n\n**Encryption:**\n```\nData → Encrypt → Can decrypt\nUse for: Sensitive data that needs retrieval\n```\n\n---\n\n### 3. Key Management\n\n**Critical Rules:**\n- ✅ Never hardcode keys in code\n- ✅ Use environment variables\n- ✅ Rotate keys regularly\n- ✅ Use secure key storage (vaults)\n- ✅ Limit key access\n- ✅ Audit key usage\n\n**Tools:**\n- HashiCorp Vault\n- AWS Secrets Manager\n- Azure Key Vault\n- 1Password for Teams\n\n---\n\n## 🌐 Web Application Security\n\n### 1. Input Validation\n\n**Rule:** Never trust user input\n\n```python\n# BAD - Don't do this\nquery = f\"SELECT * FROM users WHERE id={user_input}\"\n\n# GOOD - Use parameterized queries\ncursor.execute(\"SELECT * FROM users WHERE id=?\", (user_input,))\n```\n\n**Validation Checklist:**\n- ✅ Validate type (integer, email, etc.)\n- ✅ Check length limits\n- ✅ Whitelist allowed characters\n- ✅ Reject unexpected formats\n- ✅ Sanitize for output context\n\n### 2. SQL Injection Prevention\n\n**Vulnerable Code:**\n```python\n# DANGEROUS!\nquery = f\"SELECT * FROM users WHERE username='{username}'\"\n```\n\n**Secure Code:**\n```python\n# SAFE\nquery = \"SELECT * FROM users WHERE username = %s\"\ncursor.execute(query, (username,))\n```\n\n### 3. Cross-Site Scripting (XSS) Prevention\n\n**Vulnerable:**\n```html\n<!-- DANGEROUS -->\n<div>{{ user_input }}</div>\n```\n\n**Secure:**\n```html\n<!-- SAFE - Escapes HTML -->\n<div>{{ user_input | escape }}</div>\n```\n\n### 4. CSRF Protection\n\n**Implementation:**\n- ✅ Use CSRF tokens\n- ✅ Validate referrer headers\n- ✅ Use SameSite cookies\n- ✅ POST for state-changing operations\n\n---\n\n## 🔍 Cryptography Basics\n\n### 1. Symmetric Encryption\n**Same key for encrypt & decrypt**\n\n```\nKey: 123456\nPlaintext → Encrypt(key) → Ciphertext\nCiphertext → Decrypt(key) → Plaintext\n```\n\n**Use:** AES-256\n**When:** Encrypting sensitive data\n\n### 2. Asymmetric Encryption\n**Different keys (public & private)**\n\n```\nPublic Key: Encrypt\nPrivate Key: Decrypt\n\nAnyone can encrypt → Only owner can decrypt\n```\n\n**Use:** RSA-2048 or better\n**When:** Secure communication, digital signatures\n\n### 3. Hashing\n**One-way function**\n\n```\nData → Hash → Fixed output (cannot reverse)\n\nSame input → Always same output\nDifferent input → Different output (usually)\n```\n\n**Use:** bcrypt, Argon2, SHA-256\n**When:** Password storage, data integrity\n\n---\n\n## 🖥️ System Security\n\n### 1. Operating System Hardening\n\n**Linux Systems:**\n- ✅ Disable unnecessary services\n- ✅ Use firewall (ufw, iptables)\n- ✅ Keep system updated\n- ✅ Use SELinux/AppArmor\n- ✅ Regular security audits\n\n**Configuration:**\n```bash\n# Disable unnecessary services\nsudo systemctl disable bluetooth\n\n# Enable firewall\nsudo ufw enable\n\n# Update system\nsudo apt update && sudo apt upgrade\n```\n\n### 2. File Permissions\n\n**Linux Permissions:**\n```\n-rw-r--r--  user  group  file.txt\n ||| ||| ||  |     |     |\n r|w|x|r|w|x|r|w|x\n user | group | others\n```\n\n**Best Practices:**\n- ✅ Sensitive files: 600 (rw-------)\n- ✅ Directories: 700 (rwx------)\n- ✅ Config files: 640 (rw-r-----)\n- ✅ Regular files: 644 (rw-r--r--)\n\n### 3. User Management\n\n- ✅ No root for daily work\n- ✅ Use sudo for admin tasks\n- ✅ Remove unused accounts\n- ✅ Strong password policy\n- ✅ Monitor user activity\n\n---\n\n## 🚀 Development Security\n\n### 1. Secure Coding Practices\n\n**OWASP Top 10:**\n1. Injection attacks\n2. Broken authentication\n3. Sensitive data exposure\n4. XML external entities\n5. Broken access control\n6. Security misconfiguration\n7. XSS attacks\n8. Insecure deserialization\n9. Using outdated components\n10. Insufficient logging\n\n**Mitigation:** Address each in code\n\n### 2. Dependency Management\n\n```bash\n# Check for vulnerabilities\npip audit  # Python\nnpm audit  # JavaScript\n\n# Keep dependencies updated\npip install --upgrade package\nnpm update\n```\n\n### 3. Secret Management\n\n**DO NOT:**\n```python\nAPI_KEY = \"sk_live_abcd1234\"\nDB_PASSWORD = \"mysql_password_123\"\n```\n\n**DO:**\n```python\nimport os\n\nAPI_KEY = os.getenv('API_KEY')\nDB_PASSWORD = os.getenv('DB_PASSWORD')\n```\n\n---\n\n## 🔐 Network Security\n\n### 1. Firewall Rules\n\n**Principle:** Block all by default, allow specific\n\n```bash\n# Example: Allow only SSH and HTTPS\nsudo ufw default deny incoming\nsudo ufw allow 22/tcp   # SSH\nsudo ufw allow 443/tcp  # HTTPS\n```\n\n### 2. VPN & Tunneling\n\n- ✅ Use VPN for public WiFi\n- ✅ SSH tunneling for databases\n- ✅ Never transmit sensitive data over HTTP\n- ✅ Use TLS/SSL for all services\n\n### 3. Network Monitoring\n\n```bash\n# Monitor connections\nnetstat -tuln\nss -tuln\n\n# Analyze traffic\nwireshark  # GUI\ntcpdump    # CLI\n```\n\n---\n\n## 🛡️ Threat Modeling\n\n### 1. Identify Assets\n- What data needs protection?\n- What systems are critical?\n- What's the impact if breached?\n\n### 2. Identify Threats\n- Who might attack?\n- How might they attack?\n- What are they targeting?\n\n### 3. Identify Vulnerabilities\n- Where are weaknesses?\n- How likely to be exploited?\n- What's the impact?\n\n### 4. Implement Controls\n- Risk mitigation\n- Detection mechanisms\n- Response procedures\n\n---\n\n## 📋 Security Checklist\n\n### Before Deployment\n- ✅ Security audit completed\n- ✅ Penetration testing done\n- ✅ Code review finished\n- ✅ Dependencies patched\n- ✅ Secrets not in code\n- ✅ HTTPS enabled\n- ✅ Logging configured\n- ✅ Monitoring active\n\n---\n\n## 📚 Learning Resources\n\n### Websites\n- **OWASP.org** - Web security\n- **CWE.mitre.org** - Weakness database\n- **CVE.mitre.org** - Vulnerability database\n- **SecurityStack.exchange** - Q&A\n\n### Books\n- \"Web Application Security\" by Andrew Hoffman\n- \"Cryptography Engineering\" by Ferguson et al\n- \"The Web Application Hacker's Handbook\"\n\n### Tools\n- **Burp Suite** - Web app testing\n- **OWASP ZAP** - Free alternative\n- **Nessus** - Vulnerability scanning\n- **Metasploit** - Exploit framework\n\n---\n\n## 🎯 Key Takeaways\n\n1. **Security is a process, not a product**\n2. **Assume breach will happen**\n3. **Defense in depth saves you**\n4. **Keep learning and updating**\n5. **Never trust user input**\n6. **Encrypt sensitive data**\n7. **Monitor and log everything**\n8. **Test security regularly**\n\n---\n\n**Questions or Need Advice?**\n\n📧 **Email:** mrvishalsinghchauhan01@gmail.com\n\n💼 **LinkedIn:** [vishal-chauhan](https://linkedin.com/in/vishal-chauhan-620283378)\n\n🐙 **GitHub:** [@mr-vishal-singh01](https://github.com/mr-vishal-singh01)\n\n---\n\n**Last Updated:** June 2026\n\n*Stay secure, stay vigilant! 🔒*",
-<parameter name="path">wiki/Security-Best-Practices.md
+# 🔐 Security Best Practices
+
+## 🛡️ Foundational Security Principles
+
+### 1. Defense in Depth
+**Principle:** Multiple layers of security
+
+**Implementation:**
+- ✅ Network level security (Firewall, VPN, IDS/IPS)
+- ✅ Application level security
+- ✅ Data level encryption
+- ✅ Physical security
+
+---
+
+### 2. Least Privilege
+**Principle:** Minimal necessary access
+
+**Best Practices:**
+- Grant only required permissions
+- Regularly audit access levels
+- Remove unused accounts
+- Separate user and admin accounts
+- Use role-based access control (RBAC)
+
+---
+
+### 3. Secure by Default
+**Principle:** Security first mindset
+
+**Implementation:**
+- ✅ Disable unnecessary services
+- ✅ Strong default passwords
+- ✅ Security in configuration
+- ✅ Privacy-focused settings
+- ✅ Regular updates and patches
+
+---
+
+## 🔑 Authentication & Access Control
+
+### Password Security
+
+**Creating Strong Passwords:**
+- Minimum 12 characters (16+ better)
+- Mix: uppercase, lowercase, numbers, symbols
+- Avoid: dictionary words, personal info
+- Unique per account
+- Change when compromised
+
+**Password Management:**
+- Use password managers (KeePass, Bitwarden)
+- Never reuse passwords
+- Enable two-factor authentication (2FA)
+- Store securely, never in plain text
+
+---
+
+### Multi-Factor Authentication (MFA)
+
+**Types:**
+1. Something You Know - Password
+2. Something You Have - Phone, security key
+3. Something You Are - Biometric
+
+**Implementation:**
+- ✅ Enable 2FA on critical accounts
+- ✅ Use authenticator apps (Authy, Google Authenticator)
+- ✅ Security keys for high-value accounts
+- ✅ Backup codes stored securely
+
+---
+
+## 🔐 Encryption
+
+### Data at Rest
+
+**Encrypting Files:**
+- Full disk encryption (LUKS, BitLocker, FileVault)
+- File-level encryption (GPG, VeraCrypt)
+- Database encryption (TDE)
+
+---
+
+### Data in Transit
+
+**HTTPS/TLS Configuration:**
+- Use TLS 1.2 or higher
+- Valid SSL/TLS certificates
+- Strong cipher suites
+- HSTS headers enabled
+
+**VPN Usage:**
+- Use VPN on public networks
+- OpenVPN, WireGuard recommended
+- Verify VPN provider security
+
+---
+
+## 🛑 Common Vulnerabilities & Prevention
+
+### SQL Injection Prevention
+- Use parameterized queries
+- Input validation
+- Output encoding
+- Least privilege database accounts
+- Regular security testing
+
+---
+
+### Cross-Site Scripting (XSS)
+- Validate all input
+- HTML escape output
+- Content Security Policy (CSP)
+- Regular security testing
+
+---
+
+### Authentication Security
+- Strong password policies
+- Multi-factor authentication
+- Session management
+- Password reset security
+- Account lockout mechanisms
+
+---
+
+## 🔍 Secure Development Practices
+
+### Code Review
+**Security Focus Points:**
+- Input validation
+- Authentication checks
+- Authorization logic
+- Cryptography usage
+- Error handling
+- Logging (no sensitive data)
+
+---
+
+### Dependency Management
+
+**Keep Dependencies Updated:**
+- Check for vulnerabilities regularly
+- Monitor CVEs
+- Update dependencies
+- Minimal dependencies
+- Trusted sources only
+
+---
+
+## 🔔 Monitoring & Logging
+
+### Security Logging
+
+**What to Log:**
+- Failed login attempts
+- Access control violations
+- Data modifications
+- Administrative actions
+- Security exceptions
+
+**What NOT to Log:**
+- Passwords or secrets
+- API keys or tokens
+- Personal data (PII)
+- Payment information
+
+---
+
+### Intrusion Detection
+
+**Tools:**
+- Snort/Suricata - IDS/IPS
+- Osquery - System monitoring
+- Fail2ban - Attack prevention
+- ELK Stack - Log analysis
+
+---
+
+## 🔄 Updates & Patching
+
+### Regular Updates
+- Update OS regularly
+- Update applications
+- Update dependencies
+- Emergency patches for critical issues
+- Maintain patch inventory
+
+---
+
+## 🧪 Security Testing
+
+### Regular Assessments
+
+**Vulnerability Scanning:**
+- Nmap scanning
+- Web app scanning (Burp, OWASP ZAP)
+- Dependency checking (snyk)
+
+**Penetration Testing:**
+- Simulate real attacks
+- Identify exploitable vulnerabilities
+- Test security controls
+- Professional assessments annually
+
+---
+
+## 📋 Security Checklist
+
+```
+[ ] Strong passwords (12+ chars, mixed)
+[ ] MFA enabled on critical accounts
+[ ] Regular security updates
+[ ] Firewall configured
+[ ] Backups encrypted and tested
+[ ] Antivirus/antimalware active
+[ ] SSL/TLS certificates valid
+[ ] Input validation implemented
+[ ] Output encoding done
+[ ] Security logging enabled
+[ ] Access control reviewed
+[ ] Dependencies checked for CVEs
+[ ] Code reviewed for security issues
+[ ] Penetration testing done
+[ ] Incident response plan ready
+```
+
+---
+
+**Last Updated:** June 2026
+
+*Security is a continuous process, not a destination.* 🔒
