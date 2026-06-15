@@ -142,27 +142,16 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 ---
 
-## 🌟 Areas of Expertise
+## 🌟 Core Technical Expertise
 
 <div align="center">
 
-### 🤖 AI/ML Engineering & Orchestration
-- **Autonomous Agentic Workflows:** Architecting self-reasoning agents using **LangGraph**, **ReAct** paradigms, and stateful orchestration.
-- **Model Context Protocol (MCP):** Specialized in local-first tool integration, bridging LLMs with complex system utilities and custom APIs.
-- **Hardware-Aware Optimization:** Scaling LLM performance (Qwen, Llama 3.x) across hardware tiers, from dedicated GPUs to resource-constrained edge devices.
-- **Privacy-First AI:** Deploying 100% offline, secure AI ecosystems leveraging **Ollama** for confidential data processing.
-
-### 🛡️ Offensive & Defensive Cybersecurity
-- **AI-Augmented Pentesting:** Integrating autonomous agents with **Metasploit**, **Nmap**, and custom tools for intelligent vulnerability discovery.
-- **Wireless Infrastructure Auditing:** Advanced research into **WPA/WPA2/WPA3** protocols, packet injection, and rogue access point mitigation.
-- **Exploit Research & Development:** Engineering custom scripts and payloads for complex vulnerability validation and network-level security testing.
-- **Security Posture Engineering:** Designing hardened, secure-by-default architectures for critical student and financial data management.
-
-### 💻 Systems Architecture & DevOps
-- **High-Efficiency Systems:** Developing resource-optimized applications in **C** and **Python** featuring persistent binary storage and low-latency logic.
-- **Autonomous DevOps Pipelines:** Automating software lifecycles via **GitHub Actions** and **CMake** for seamless multi-platform distribution.
-- **Containerization & Deployment:** Streamlining complex toolchains and microservices using **Docker** for consistent, reproducible environments.
-- **Technical Interface Design:** Building high-performance, real-time command-and-control interfaces using **Streamlit** and advanced CLI frameworks.
+| 🤖 AI/ML & Agentic Systems | 🛡️ Offensive & Defensive Security | 💻 Systems & Infrastructure |
+| :--- | :--- | :--- |
+| **Autonomous Orchestration:** Architecting ReAct-based agents using **LangGraph** for complex reasoning. | **AI-Augmented Pentesting:** Leveraging LLMs to automate vulnerability discovery and threat hunting. | **High-Performance C/Python:** Engineering low-latency applications with optimized binary persistence. |
+| **Model Context Protocol (MCP):** Bridging local LLMs with system-level tools via standardized protocols. | **Wireless Protocol Research:** Deep auditing of **WPA3/WPA2**, packet injection, and signal analysis. | **Autonomous CI/CD:** Engineering self-healing DevOps pipelines via **GitHub Actions** & **CMake**. |
+| **Hardware-Aware AI:** Scaling model inference across **Apple Silicon**, **NVIDIA CUDA**, and edge tiers. | **Exploit Development:** Researching and weaponizing vulnerabilities for secure infrastructure validation. | **Containerized Ecosystems:** Orchestrating complex microservices using **Docker** & **Linux** hardening. |
+| **Privacy-Centric LLMs:** Deploying high-trust, 100% offline ecosystems using **Ollama** & **Qwen**. | **Security Posture Design:** Designing secure-by-default architectures for financial and academic systems. | **Strategic Tooling:** Developing real-time command-and-control (C2) interfaces using **Streamlit**. |
 
 </div>
 
