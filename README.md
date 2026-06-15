@@ -182,17 +182,17 @@ This repository includes a **comprehensive professional wiki** with:
 
 ---
 
-## 🚀 Quick Links
+## 🔗 Connectivity Hub
 
 <div align="center">
 
-| Link | Purpose |
-|------|---------|
-| [📖 Full Wiki](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | Complete professional documentation |
-| [💼 LinkedIn](https://linkedin.com/in/vishal-chauhan-620283378) | Professional network |
-| [📝 Medium](https://medium.com/@Mrvishalsinghchauhan) | Technical articles |
-| [💻 GitHub](https://github.com/mr-vishal-singh01) | All repositories |
-| [📧 Email](mailto:mrvishalsinghchauhan01@gmail.com) | Contact me |
+| Destination | Primary Function | Access Link |
+| :--- | :--- | :--- |
+| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [**Explore Knowledge Base**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
+| **💼 LinkedIn Network** | Professional connections & career milestones | [**Connect on LinkedIn**](https://linkedin.com/in/vishal-chauhan-620283378) |
+| **✍️ Technical Writing** | Deep dives into AI, Cybersecurity, & Systems Engineering | [**Read Articles**](https://medium.com/@Mrvishalsinghchauhan) |
+| **📂 Project Portfolio** | Source code, technical demos, and experimental research | [**Browse Repositories**](https://github.com/mr-vishal-singh01) |
+| **✉️ Direct Inquiries** | Collaboration, research opportunities, & professional outreach | [**Send Email**](mailto:mrvishalsinghchauhan01@gmail.com) |
 
 </div>
 
