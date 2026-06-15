@@ -19,7 +19,7 @@
 ## 🏛️ Digital Garden & Knowledge Repository
 
 > [!TIP]
-> **[EXPLORE THE FULL KNOWLEDGE BASE](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+> **[<font color="#44cc11">EXPLORE THE FULL KNOWLEDGE BASE</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
 > <br>
 > [![Wiki](https://img.shields.io/badge/Knowledge_Base-44cc11?style=for-the-badge&logo=githubbook&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-ff0000?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
 > <br>
@@ -29,10 +29,10 @@
 
 <div align="center">
 
-| 📘 [**Knowledge Home**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [**Identity & Bio**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [**Technical Skills**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
+| 📘 [<font color="#44cc11">**Knowledge Home**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [<font color="#ff0000">**Identity & Bio**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [<font color="#44cc11">**Technical Skills**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
 | :---: | :---: | :---: |
-| 🚀 [**Active Projects**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [**Career Roadmap**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [**Learning Labs**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
-| ⚙️ [**Full Tech Stack**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [**Open Initiatives**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [**Contact Hub**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
+| 🚀 [<font color="#ff0000">**Active Projects**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [<font color="#44cc11">**Career Roadmap**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [<font color="#ff0000">**Learning Labs**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
+| ⚙️ [<font color="#44cc11">**Full Tech Stack**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [<font color="#ff0000">**Open Initiatives**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [<font color="#44cc11">**Contact Hub**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
 
 </div>
 
@@ -41,7 +41,7 @@
 ## 🚀 About Me
 I am a **B.Tech student at Krishna Group of Institutions** operating at the convergence of **Artificial Intelligence** and **Cybersecurity**. I specialize in developing autonomous, local-first agents using the **Model Context Protocol (MCP)** to bridge Large Language Models with complex penetration testing and system administration tools. My work focuses on building privacy-centric AI solutions that provide high-level reasoning and autonomous tool-chaining on consumer-grade hardware.
 
-**💡 Read more in [About Me Wiki](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
+**💡 Read more in [<font color="#44cc11">About Me Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
 
 ---
 
@@ -91,7 +91,7 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✨ More Projects</h3>
-      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects">View All in Wiki</a></strong></p>
+      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 [<font color="#ff0000">View All in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects)</strong></p>
       <div align="center">
         <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-2ea44f?style=for-the-badge&logo=github"/></a>
       </div>
@@ -133,7 +133,7 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 <br>
 
 <div align="center">
-  <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack">View Detailed Tech Stack in Wiki</a></strong>
+  <strong>📖 [<font color="#44cc11">View Detailed Tech Stack in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack)</strong>
 </div>
 
 <br>
@@ -200,7 +200,7 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 | Destination | Primary Function | Access Link |
 | :--- | :--- | :--- |
-| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [**Explore Knowledge Base**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
+| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [<font color="#44cc11">**Explore Knowledge Base**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
 | **💼 LinkedIn Network** | Professional connections & career milestones | [**Connect on LinkedIn**](https://linkedin.com/in/vishal-chauhan-620283378) |
 | **✍️ Technical Writing** | Deep dives into AI, Cybersecurity, & Systems Engineering | [**Read Articles**](https://medium.com/@Mrvishalsinghchauhan) |
 | **📂 Project Portfolio** | Source code, technical demos, and experimental research | [**Browse Repositories**](https://github.com/mr-vishal-singh01) |
@@ -219,7 +219,7 @@ I am always open to discussing technical challenges, research initiatives, and i
 - **📚 Knowledge Exchange:** Engaging in technical mentorship, security research projects, and community-driven innovation.
 - **🎯 Strategic Inquiries:** Discussing complex architectural challenges, system design, or potential project collaborations.
 
-**📖 [Visit the Contact & Engagement Wiki](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social)** for a detailed guide on how to connect and collaborate.
+**📖 [<font color="#ff0000">Visit the Contact & Engagement Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social)** for a detailed guide on how to connect and collaborate.
 
 ---
 
@@ -236,6 +236,6 @@ To maintain high standards of transparency and engineering excellence, the follo
   <p><i><b>Engineering secure, autonomous systems for the next generation of computing.</b></i></p>
   <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=0E75B6&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
   <br><br>
-  <p>Explore the <strong><a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki">Professional Knowledge Base</a></strong> for architectural deep-dives.</p>
+  <p>Explore the <strong>[<font color="#44cc11">Professional Knowledge Base</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)</strong> for architectural deep-dives.</p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2&width=400&section=footer" />
 </div>
