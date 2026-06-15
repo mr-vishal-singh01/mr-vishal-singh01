@@ -19,7 +19,7 @@
 ## 🏛️ <font color="#FF8C00">Digital Garden & Knowledge Repository</font>
 
 > [!IMPORTANT]
-> **[<font color="#FFA500">EXPLORE THE FULL KNOWLEDGE BASE</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**
+> **<a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><font color="#FFA500">EXPLORE THE FULL KNOWLEDGE BASE</font></a>**
 > <br>
 > [![Wiki](https://img.shields.io/badge/Knowledge_Base-FFA500?style=for-the-badge&logo=githubbook&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-FF4500?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
 > <br>
@@ -29,10 +29,10 @@
 
 <div align="center">
 
-| 📘 [<font color="#FFA500">**Knowledge Home**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [<font color="#FF6347">**Identity & Bio**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [<font color="#FF4500">**Technical Skills**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
+| 📘 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><font color="#FFA500">**Knowledge Home**</font></a> | 👤 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me"><font color="#FF6347">**Identity & Bio**</font></a> | 🛡️ <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills"><font color="#FF4500">**Technical Skills**</font></a> |
 | :---: | :---: | :---: |
-| 🚀 [<font color="#FF7F50">**Active Projects**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [<font color="#FFA500">**Career Roadmap**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [<font color="#FF4500">**Learning Labs**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
-| ⚙️ [<font color="#FF6347">**Full Tech Stack**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [<font color="#FF7F50">**Open Initiatives**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [<font color="#FFA500">**Contact Hub**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
+| 🚀 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects"><font color="#FF7F50">**Active Projects**</font></a> | 💼 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience"><font color="#FFA500">**Career Roadmap**</font></a> | 📚 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources"><font color="#FF4500">**Learning Labs**</font></a> |
+| ⚙️ <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack"><font color="#FF6347">**Full Tech Stack**</font></a> | 🌟 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source"><font color="#FF7F50">**Open Initiatives**</font></a> | 📫 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social"><font color="#FFA500">**Contact Hub**</font></a> |
 
 </div>
 
@@ -41,7 +41,7 @@
 ## 🚀 <font color="#FF8C00">About Me</font>
 I am a **B.Tech student at Krishna Group of Institutions** operating at the convergence of **Artificial Intelligence** and **Cybersecurity**. I specialize in developing autonomous, local-first agents using the **Model Context Protocol (MCP)** to bridge Large Language Models with complex penetration testing and system administration tools. My work focuses on building privacy-centric AI solutions that provide high-level reasoning and autonomous tool-chaining on consumer-grade hardware.
 
-**💡 Read more in [<font color="#FFA500">About Me Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me)**
+**💡 Read more in <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me"><font color="#FFA500">About Me Wiki</font></a>**
 
 ---
 
@@ -91,7 +91,7 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✨ <font color="#FF6347">More Projects</font></h3>
-      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 [<font color="#FFA500">View All in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects)</strong></p>
+      <p>Explore my other repositories for further research in autonomous agents, LLM orchestration, and offensive security tools. <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects"><font color="#FFA500">View All in Wiki</font></a></strong></p>
       <div align="center">
         <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All-Repositories-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
@@ -133,7 +133,7 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 <br>
 
 <div align="center">
-  <strong>📖 [<font color="#FFA500">View Detailed Tech Stack in Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack)</strong>
+  <strong>📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack"><font color="#FFA500">View Detailed Tech Stack in Wiki</font></a></strong>
 </div>
 
 <br>
@@ -188,7 +188,7 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 <br>
 
-[**🚀 [<font color="#FFA500">ACCESS THE FULL PROFESSIONAL WIKI</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)**]
+<a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki">**🚀 [<font color="#FFA500">ACCESS THE FULL PROFESSIONAL WIKI</font></a>**]
 
 </div>
 
@@ -200,7 +200,7 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 | Destination | Primary Function | Access Link |
 | :--- | :--- | :--- |
-| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | [<font color="#FFA500">**Explore Knowledge Base**</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) |
+| **📘 Professional Wiki** | Comprehensive documentation of research & architecture | <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><font color="#FFA500">**Explore Knowledge Base**</font></a> |
 | **💼 LinkedIn Network** | Professional connections & career milestones | [**Connect on LinkedIn**](https://linkedin.com/in/vishal-chauhan-620283378) |
 | **✍️ Technical Writing** | Deep dives into AI, Cybersecurity, & Systems Engineering | [**Read Articles**](https://medium.com/@Mrvishalsinghchauhan) |
 | **📂 Project Portfolio** | Source code, technical demos, and experimental research | [**Browse Repositories**](https://github.com/mr-vishal-singh01) |
@@ -219,7 +219,7 @@ I am always open to discussing technical challenges, research initiatives, and i
 - **📚 Knowledge Exchange:** Engaging in technical mentorship, security research projects, and community-driven innovation.
 - **🎯 Strategic Inquiries:** Discussing complex architectural challenges, system design, or potential project collaborations.
 
-**📖 [<font color="#FF4500">Visit the Contact & Engagement Wiki</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social)** for a detailed guide on how to connect and collaborate.
+**📖 <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social"><font color="#FF4500">Visit the Contact & Engagement Wiki</font></a>** for a detailed guide on how to connect and collaborate.
 
 ---
 
@@ -236,6 +236,6 @@ To maintain high standards of transparency and engineering excellence, the follo
   <p><i><b>Engineering secure, autonomous systems for the next generation of computing.</b></i></p>
   <img src="https://komarev.com/ghpvc/?username=mr-vishal-singh01&color=FF8C00&style=flat-square&label=STATIONS+VISITED" alt="Profile Views" />
   <br><br>
-  <p>Explore the <strong>[<font color="#FFA500">Professional Knowledge Base</font>](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)</strong> for architectural deep-dives.</p>
+  <p>Explore the <strong><a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><font color="#FFA500">Professional Knowledge Base</font></a></strong> for architectural deep-dives.</p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF8C00&height=2&width=400&section=footer" />
 </div>
