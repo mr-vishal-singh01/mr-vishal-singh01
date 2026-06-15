@@ -142,40 +142,27 @@ I am a **B.Tech student at Krishna Group of Institutions** operating at the conv
 
 ---
 
-## 🌟 Core Technical Expertise
+## 🌟 Areas of Expertise
 
 <div align="center">
 
-### 🤖 AI/ML Engineering & Orchestration
-```python
-class AgenticWorkflow:
-    frameworks = ["LangGraph", "ReAct", "MCP"]
-    capabilities = {
-        "autonomous_reasoning": "Stateful multi-turn orchestration",
-        "tool_integration": "Standardized local MCP bridging",
-        "hardware_scaling": ["Apple Silicon", "NVIDIA CUDA", "Edge"]
-    }
-    privacy_policy = "100% Offline / Local-First (Ollama)"
-```
+### 🤖 AI/ML Engineering & Autonomous Agents
+<img src="https://img.shields.io/badge/LangGraph-2ea44f?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCP-Blue?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<p align="center">
+Architecting <b>Stateful ReAct Agents</b> and local-first orchestrators. Specialized in bridging LLMs with complex toolsets using the <b>Model Context Protocol</b> for autonomous, privacy-centric reasoning and multi-step task execution.
+</p>
 
 ### 🛡️ Offensive & Defensive Cybersecurity
-```bash
-# Security Operations Matrix
-RECON_SCANNING    => ["Nmap", "Metasploit", "AI-Augmented Discovery"]
-WIRELESS_AUDIT    => ["WPA3/WPA2 Analysis", "Packet Injection"]
-EXPLOIT_RESEARCH  => ["Vulnerability Validation", "Custom Payloads"]
-HARDENING         => ["Secure-by-Default Architecture", "C2 Design"]
-```
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<p align="center">
+Conducting <b>AI-Augmented Penetration Testing</b> and wireless infrastructure auditing (WPA3/WPA2). Focused on exploit research, vulnerability validation, and designing secure-by-default systems for critical data environments.
+</p>
 
-### 💻 Systems Architecture & Polyglot Dev
-```c
-struct SystemsEngineering {
-    char* languages[] = {"C", "Python", "Bash", "SQL", "Go (Active)"};
-    char* performance = "Low-Latency / Binary Persistence";
-    char* devops = "GitHub Actions / CMake / Docker Hub";
-    char* interface = "Streamlit / Advanced CLI Tooling";
-};
-```
+### 💻 Polyglot Systems & Infrastructure
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<p align="center">
+Engineering <b>High-Performance Applications</b> and autonomous <b>CI/CD Pipelines</b>. Proficient in binary file handling, multi-platform build systems (CMake), and containerized deployments using <b>Docker</b> and <b>Linux</b> hardening.
+</p>
 
 </div>
 
