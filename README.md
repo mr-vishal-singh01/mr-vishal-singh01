@@ -20,14 +20,14 @@
 
 > **👉 [VISIT MY PROFESSIONAL WIKI](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki)** for comprehensive documentation on my expertise, projects, and journey.
 
-### 📖 Quick Wiki Navigation
+### 🧭 Strategic Wiki Navigation
 
 <div align="center">
 
-| 📖 [Home](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [About Me](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 💻 [Tech Skills](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
-|---|---|---|
-| 🚀 [Projects](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [Experience](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [Learning](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
-| 🛠️ [Tech Stack](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [Open Source](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [Contact](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
+| 📘 [**Knowledge Home**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) | 👤 [**Identity & Bio**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/About-Me) | 🛡️ [**Technical Skills**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Technical-Skills) |
+| :---: | :---: | :---: |
+| 🚀 [**Active Projects**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects) | 💼 [**Career Roadmap**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Experience) | 📚 [**Learning Labs**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Learning-Resources) |
+| ⚙️ [**Full Tech Stack**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Tech-Stack) | 🌟 [**Open Initiatives**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Open-Source) | 📫 [**Contact Hub**](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Contact-Social) |
 
 </div>
 
