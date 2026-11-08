@@ -24,7 +24,7 @@ def get_latest_projects():
     return featured
 
 def generate_html_table(projects):
-    html = '<table bordercolor="#FF4500">\n  <tr>\n'
+    html = '<table>\n  <tr>\n'
     for i, p in enumerate(projects):
         if i > 0 and i % 2 == 0:
             html += "  </tr>\n  <tr>\n"
@@ -32,10 +32,10 @@ def generate_html_table(projects):
         name = p.get("name", "")
         url = p.get("html_url", f"https://github.com/{username}/{name}")
         html += f"""    <td width="50%" valign="top">
-      <h3 align="center">🚀 <font color="#FFA500">{name}</font></h3>
+      <h3 align="center">🚀 {name}</h3>
       <p>{desc}</p>
       <div align="center">
-        <a href="{url}"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
+        <a href="{url}"><img src="https://img.shields.io/badge/View_Source-Repository-388BFD?style=for-the-badge&logo=github&labelColor=21262D"/></a>
       </div>
     </td>
 """

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;600&family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    width: 1600px;
+    height: 1148px;
+    background-color: #0b0e14;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: #e6edf3;
+    padding: 36px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+  }
+
+  /* Outer Card Container */
+  .card-container {
+    width: 100%;
+    height: 100%;
+    background-color: #0e121a;
+    border: 1px solid #1f2736;
+    border-radius: 12px;
+    padding: 34px 44px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.6);
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #212836;
+    margin-bottom: 30px;
+  }
+
+  /* Main Layout: Left Bio & Right Media */
+  .content-layout {
+    display: flex;
+    gap: 50px;
+    flex: 1;
+  }
+
+  .left-col {
+    flex: 1.85;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Whoami chip */
+  .whoami-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #161c28;
+    border: 1px solid #283347;
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-family: 'Fira Code', monospace;
+    font-size: 17px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 16px;
+    align-self: flex-start;
+  }
+
+  .name-title {
+    font-size: 44px;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -1px;
+    margin-bottom: 8px;
+  }
+
+  .degree-subtitle {
+    font-size: 19px;
+    font-weight: 600;
+    color: #8b99ad;
+    margin-bottom: 22px;
+  }
+
+  .divider-subtle {
+    height: 1px;
+    background-color: #1f2736;
+    margin-bottom: 22px;
+  }
+
+  /* Bullet Points */
+  .info-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10.5px;
+    margin-bottom: 24px;
+  }
+
+  .info-list li {
+    font-size: 16.5px;
+    line-height: 1.45;
+    color: #d2dbe5;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .info-list li b {
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  /* Quote Callout */
+  .quote-box {
+    border-left: 3px solid #3b82f6;
+    padding: 10px 18px;
+    margin-bottom: 18px;
+    background: rgba(59, 130, 246, 0.04);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .quote-box p {
+    font-size: 16.5px;
+    font-style: italic;
+    color: #cbd5e1;
+    line-height: 1.5;
+  }
+
+  /* Bio Paragraph */
+  .bio-para {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #94a3b8;
+  }
+
+  .bio-para b {
+    color: #f1f5f9;
+  }
+
+  /* Right Column (Photo & Buttons) */
+  .right-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 10px;
+  }
+
+  .photo-frame {
+    width: 320px;
+    height: 420px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 2px solid #232d40;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+    margin-bottom: 34px;
+  }
+
+  .photo-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  /* Action Buttons (Dual Pill style) */
+  .action-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 320px;
+  }
+
+  .dual-btn {
+    display: flex;
+    width: 100%;
+    height: 46px;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 14.5px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .dual-btn .btn-label {
+    flex: 1.1;
+    background-color: #2b303a;
+    color: #f1f5f9;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 18px;
+  }
+
+  .dual-btn .btn-action {
+    flex: 1.2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-weight: 800;
+  }
+
+  .btn-linkedin-action {
+    background-color: #0a66c2;
+  }
+
+  .btn-gmail-action {
+    background-color: #ea4335;
+  }
+
+  .btn-github-action {
+    background-color: #161b22;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .dual-btn svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+  }
+</style>
+</head>
+<body>
+
+  <div class="card-container">
+    
+    <!-- Header -->
+    <div class="header">
+      <span>🧑‍💻</span>
+      <span>About Me</span>
+    </div>
+
+    <div class="content-layout">
+      
+      <!-- Left Column -->
+      <div class="left-col">
+        
+        <div class="whoami-badge">
+          <span>💻</span>
+          <span>$ whoami</span>
+        </div>
+
+        <h2 class="name-title">Vishal Chauhan</h2>
+        <p class="degree-subtitle">B.Tech in Computer Science & Engineering (AIML & CyberSec) • 2024–2028</p>
+
+        <div class="divider-subtle"></div>
+
+        <ul class="info-list">
+          <li>
+            <span>🎓</span>
+            <div><b>University & College:</b> Krishna Group of Institutions (AKTU)</div>
+          </li>
+          <li>
+            <span>📊</span>
+            <div><b>Academic Standing:</b> AI/ML, Cybersecurity & Systems Architecture</div>
+          </li>
+          <li>
+            <span>📍</span>
+            <div><b>Location:</b> Kanpur, Uttar Pradesh, India 🇮🇳</div>
+          </li>
+          <li>
+            <span>🏆</span>
+            <div><b>National Competitions:</b> <b>Smart India Hackathon (SIH 2026) Architect</b></div>
+          </li>
+          <li>
+            <span>💼</span>
+            <div><b>Core Research:</b> Autonomous Multi-Agent Systems & MCP Orchestration</div>
+          </li>
+          <li>
+            <span>🛡️</span>
+            <div><b>Cybersecurity Practice:</b> Network Pentesting, Wireless Auditing, Exploit Defense</div>
+          </li>
+          <li>
+            <span>⚡</span>
+            <div><b>Systems Engineering:</b> C Binary Persistence & Linux Hardening</div>
+          </li>
+          <li>
+            <span>🟢</span>
+            <div><b>Availability:</b> Open to Summer Internships & Research Collaborations</div>
+          </li>
+          <li>
+            <span>🎯</span>
+            <div><b>Primary Focus:</b> Autonomous AI Agents • Pentesting Toolchains • Metrology</div>
+          </li>
+          <li>
+            <span>📚</span>
+            <div><b>Relevant Coursework:</b> DSA, Machine Learning, Deep Learning, DBMS, OS, Networks</div>
+          </li>
+        </ul>
+
+        <div class="quote-box">
+          <p>"Architecting sovereign, autonomous AI workflows and engineering battle-tested cybersecurity defenses."</p>
+        </div>
+
+        <p class="bio-para">
+          I am a Computer Science undergraduate specializing in <b>Artificial Intelligence & Machine Learning (AIML)</b> and <b>Cybersecurity</b> at Krishna Group of Institutions. I design and build local-first autonomous agents using the <b>Model Context Protocol (MCP)</b>, bridging LLMs with industrial penetration testing tools, automated metrology validation pipelines, and secure low-level systems.
+        </p>
+
+      </div>
+
+      <!-- Right Column -->
+      <div class="right-col">
+        
+        <div class="photo-frame">
+          <img src="file:///home/zeno/mr-vishal-singh01/assets/vishal-chauhan.jpg" alt="Vishal Chauhan" />
+        </div>
+
+        <div class="action-buttons">
+          
+          <div class="dual-btn">
+            <div class="btn-label">
+              <span>LINKEDIN</span>
+            </div>
+            <div class="btn-action btn-linkedin-action">
+              CONNECT
+            </div>
+          </div>
+
+          <div class="dual-btn">
+            <div class="btn-label">
+              <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+              <span>GMAIL</span>
+            </div>
+            <div class="btn-action btn-gmail-action">
+              EMAIL ME
+            </div>
+          </div>
+
+          <div class="dual-btn">
+            <div class="btn-label">
+              <svg viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
+              <span>GITHUB</span>
+            </div>
+            <div class="btn-action btn-github-action">
+              MY REPOS
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</body>
+</html>
