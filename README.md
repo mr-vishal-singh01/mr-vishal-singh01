@@ -8,15 +8,17 @@
 
 <div align="center">
   <p><i>⚡ "Architecting sovereign, autonomous AI workflows and engineering battle-tested cybersecurity defenses." 🛡️</i></p>
+  <p><b>B.Tech CSE (AIML & Cybersecurity) • Krishna Group of Institutions (AKTU) • SIH 2026 Architect</b></p>
+  <p>Passionate about bridging autonomous multi-agent systems with industrial penetration testing, sovereign metrology pipelines, and low-level C systems.</p>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GitHub-Profile-24292E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/Knowledge_Base-Digital_Garden-FF8C00?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
-  <a href="https://medium.com/@Mrvishalsinghchauhan"><img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/Vishalchauchn01"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24292E" /></a>
+  <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292E" /></a>
+  <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E" /></a>
+  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/Knowledge_Base-Digital_Garden-FF8C00?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=24292E" /></a>
+  <a href="https://medium.com/@Mrvishalsinghchauhan"><img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=24292E" /></a>
+  <a href="https://twitter.com/Vishalchauchn01"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=24292E" /></a>
 </div>
 
 <br>
@@ -38,29 +40,31 @@
         <li>💼 <b>Core Research:</b> Autonomous Multi-Agent Systems, Model Context Protocol (MCP), Local LLM Orchestration</li>
         <li>🛡️ <b>Cybersecurity Practice:</b> Network Penetration Testing, WPA2/WPA3 Wireless Auditing, Exploit Validation</li>
         <li>⚡ <b>Systems Engineering:</b> High-performance C binary file persistence, Linux Kernel & Systemd Hardening</li>
-        <li>🟢 <b>Availability:</b> Open to AI/ML & CyberSec Internships, Research Collaborations, and Open-Source Initiatives</li>
+        <li>🟢 <b>Availability:</b> Open to Summer Internships, Research Collaborations, and Open-Source Initiatives</li>
+        <li>🎯 <b>Primary Focus:</b> Autonomous AI Agents • Industrial Pentesting Toolchains • Metrology Software</li>
+        <li>✍️ <b>Special Interest:</b> AI-Driven SecOps, Vulnerability Research & Technical Publishing</li>
         <li>📚 <b>Relevant Coursework:</b> Data Structures & Algorithms, Machine Learning, Deep Learning, DBMS, OS, Computer Networks, Cryptography</li>
       </ul>
       <blockquote>
-        <i>"Building autonomous, privacy-preserving AI systems and engineering resilient security architectures for next-generation computing."</i>
+        <i>"Building sovereign, privacy-preserving AI systems and engineering resilient security architectures for next-generation computing."</i>
       </blockquote>
       <p>
-        I am a Computer Science undergraduate specializing in <b>Artificial Intelligence & Machine Learning (AIML)</b> and <b>Cybersecurity</b>. I design and build local-first autonomous agents using the <b>Model Context Protocol (MCP)</b>, bridging LLMs with industrial penetration testing tools, automated metrology validation pipelines, and secure low-level systems.
+        I am a Computer Science undergraduate specializing in <b>Artificial Intelligence & Machine Learning (AIML)</b> and <b>Cybersecurity</b> at Krishna Group of Institutions. I design and build local-first autonomous agents using the <b>Model Context Protocol (MCP)</b>, bridging LLMs with industrial penetration testing tools, automated metrology validation pipelines, and secure low-level systems.
       </p>
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://avatars.githubusercontent.com/u/275346198?v=4" width="220" style="border-radius: 14px; border: 3px solid #FF8C00;" alt="Vishal Chauhan" />
+      <img src="https://raw.githubusercontent.com/mr-vishal-singh01/mr-vishal-singh01/main/assets/vishal-chauhan.jpg" width="220" style="border-radius: 12px; border: 2px solid #FF8C00;" alt="Vishal Chauhan" />
       <br/><br/>
-      <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="185"/></a>
+      <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b" width="185"/></a>
       <br/><br/>
-      <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="185"/></a>
+      <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b2b2b" width="185"/></a>
       <br/><br/>
-      <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GITHUB-MY_REPOS-24292E?style=for-the-badge&logo=github&logoColor=white" width="185"/></a>
+      <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GITHUB-MY_REPOS-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b" width="185"/></a>
       <br/><br/>
-      <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/WIKI-DIGITAL_GARDEN-FF8C00?style=for-the-badge&logo=gitbook&logoColor=white" width="185"/></a>
+      <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/WIKI-DIGITAL_GARDEN-FF8C00?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=2b2b2b" width="185"/></a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" width="185"/>
+      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=2b2b2b" width="185"/>
     </td>
   </tr>
 </table>
@@ -75,7 +79,7 @@
 > [!IMPORTANT]
 > **<a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><font color="#FFA500">EXPLORE THE FULL KNOWLEDGE BASE</font></a>**
 > <br><br>
-> [![Wiki](https://img.shields.io/badge/Knowledge_Base-FFA500?style=for-the-badge&logo=githubbook&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-FF4500?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
+> [![Wiki](https://img.shields.io/badge/Knowledge_Base-FFA500?style=for-the-badge&logo=githubbook&logoColor=white&labelColor=2b2b2b)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki) [![Security](https://img.shields.io/badge/Security_Protocols-FF4500?style=for-the-badge&logo=target&logoColor=white&labelColor=2b2b2b)](https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Security-Best-Practices)
 > <br><br>
 > This ecosystem serves as an evolving **Digital Garden**, centralizing my architectural research, technical methodologies, and intellectual property across the AI and Cybersecurity domains.
 
@@ -148,7 +152,7 @@
       </p>
       <p>🇮🇳 Sovereign OIML R-76 Guided Non-Automatic Weighing Instruments (NAWI) testing suite engineered for <b>Smart India Hackathon 2026</b>. Features automated accuracy/repeatability tests, ISO 19005-3 PDF/A-3 generation, PTB Digital Calibration Certificate (DCC v3.2.1) XML export, and Ed25519 cryptographic signing.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/OIML-NAWI-METROLOGY-TESTER-R-76"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/OIML-NAWI-METROLOGY-TESTER-R-76"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -160,7 +164,7 @@
       </p>
       <p>An advanced Python orchestrator connecting local Ollama models with 200+ Model Context Protocol (MCP) servers. Enables autonomous cybersecurity reasoning, automated penetration testing tool-chaining, hardware-aware resource optimization, and private offline execution.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Ollama-MCP-Orchestrator"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
   </tr>
@@ -174,7 +178,7 @@
       </p>
       <p>A rigorous collection of offensive security research and penetration testing labs conducted during my B.Tech studies. Covers network vulnerability analysis, CVE reproduction, privilege escalation, and security hardening methodologies.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/BTech-Pentesting-Labs"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -186,7 +190,7 @@
       </p>
       <p>Applied research and auditing suite for evaluating IEEE 802.11 wireless infrastructures. Explores four-way handshake inspection, rogue AP detection, deauthentication defense mechanisms, and SAE (WPA3-Personal) security analysis.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/Wireless-Security-Analysis"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
   </tr>
@@ -200,7 +204,7 @@
       </p>
       <p>An open-source collaboration framework designed to integrate autonomous AI co-working capabilities directly into local developer environments with 500+ SaaS application integrations.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/open-claude-cowork"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -212,7 +216,7 @@
       </p>
       <p>A high-performance C system for academic record management. Built with direct binary file persistence, atomic CRUD operations across 14 record fields, and memory-efficient search indexing without external database dependencies.</p>
       <div align="center">
-        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/mr-vishal-singh01/StudentManagementSystem"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
   </tr>
@@ -221,8 +225,8 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-mr--vishal--singh01-FF8C00?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects"><img src="https://img.shields.io/badge/Wiki-Detailed_Project_Architecture-FFA500?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+  <a href="https://github.com/mr-vishal-singh01?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-mr--vishal--singh01-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b" /></a>
+  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki/Projects"><img src="https://img.shields.io/badge/Wiki-Detailed_Project_Architecture-FFA500?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=2b2b2b" /></a>
 </div>
 
 ---
@@ -249,8 +253,16 @@
 ## 📊 <font color="#FF8C00">GitHub Activity & Real-Time Metrics</font>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-vishal-singh01&show_icons=true&theme=tokyonight&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0D1117&border_color=FF8C00" alt="Vishal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vishal-singh01&layout=compact&theme=tokyonight&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0D1117&border_color=FF8C00" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/mr-vishal-singh01?label=FOLLOWERS&style=for-the-badge&logo=github&color=FF8C00&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-10+-FFA500?style=for-the-badge&logo=git&logoColor=white&labelColor=2b2b2b" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-vishal-singh01&show_icons=true&theme=tokyonight&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0D1117&border_color=FF8C00" alt="Vishal's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-vishal-singh01&layout=compact&theme=tokyonight&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff&bg_color=0D1117&border_color=FF8C00" alt="Top Languages" />
 </div>
 
 <div align="center">

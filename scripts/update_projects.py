@@ -35,7 +35,7 @@ def generate_html_table(projects):
       <h3 align="center">🚀 <font color="#FFA500">{name}</font></h3>
       <p>{desc}</p>
       <div align="center">
-        <a href="{url}"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
+        <a href="{url}"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github&labelColor=2b2b2b"/></a>
       </div>
     </td>
 """
