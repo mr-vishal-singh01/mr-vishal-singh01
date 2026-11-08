@@ -16,6 +16,7 @@
   <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /></a>
   <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" /></a>
   <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" /></a>
+  <a href="https://github.com/mr-vishal-singh01/OIML-NAWI-METROLOGY-TESTER-R-76"><img src="https://img.shields.io/badge/SIH_2026-Metrology_Suite-238636?style=for-the-badge&logo=target&logoColor=white&labelColor=161B22" /></a>
   <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/Knowledge_Base-Digital_Garden-388BFD?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=161B22" /></a>
   <a href="https://medium.com/@Mrvishalsinghchauhan"><img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=161B22" /></a>
   <a href="https://twitter.com/Vishalchauchn01"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161B22" /></a>
@@ -24,46 +25,44 @@
 <br>
 
 <!-- ABOUT_ME_START -->
-## 🧑‍💻 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mr-vishal-singh01/mr-vishal-singh01/main/assets/about-me.png" width="100%" alt="About Vishal Chauhan"/>
+</div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="32%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/mr-vishal-singh01/mr-vishal-singh01/main/assets/vishal-chauhan.jpg" width="230" style="border-radius: 12px; border: 2px solid #388BFD; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Vishal Chauhan" />
-      <br/><br/>
-      <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262D" width="200"/></a>
-      <br/><br/>
-      <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262D" width="200"/></a>
-      <br/><br/>
-      <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GITHUB-MY_REPOS-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" width="200"/></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-238636?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=21262D" width="200"/>
-    </td>
-    <td width="68%" valign="top" style="padding-left: 20px;">
-      <h3>💻 <code>$ whoami</code></h3>
-      <h2><b>Vishal Chauhan</b></h2>
-      <p><b>B.Tech in Computer Science & Engineering (AIML & CyberSec) • 2024–2028</b></p>
-      <ul>
-        <li>🎓 <b>University & College:</b> Krishna Group of Institutions (AKTU)</li>
-        <li>📊 <b>Specialization:</b> Artificial Intelligence, Machine Learning & Cybersecurity</li>
-        <li>📍 <b>Location:</b> Kanpur, Uttar Pradesh, India 🇮🇳</li>
-        <li>🏆 <b>National Recognition:</b> <b>Smart India Hackathon 2026 Architect (SIH26035)</b> — Sovereign OIML R-76 Guided Metrology Testing Suite & PTB DCC XML</li>
-        <li>💼 <b>Core Research:</b> Autonomous Multi-Agent Systems, Model Context Protocol (MCP), Local LLM Orchestration</li>
-        <li>🛡️ <b>Cybersecurity:</b> Industrial Penetration Testing, WPA2/WPA3 Wireless Auditing, Exploit Defense</li>
-        <li>⚡ <b>Systems Engineering:</b> High-performance C binary file persistence, Linux Kernel & Systemd Hardening</li>
-        <li>🟢 <b>Availability:</b> Open to Summer Internships, Research Collaborations, and Open-Source Initiatives</li>
-        <li>🎯 <b>Primary Focus:</b> Autonomous AI Agents • Industrial Pentesting Toolchains • Metrology Software</li>
-        <li>📚 <b>Relevant Coursework:</b> DSA, Machine Learning, Deep Learning, DBMS, OS, Computer Networks, Cryptography</li>
-      </ul>
-      <blockquote>
-        <i>"Building sovereign, privacy-preserving AI systems and engineering resilient security architectures for next-generation computing."</i>
-      </blockquote>
-      <p>
-        I design and build local-first autonomous agent ecosystems using the <b>Model Context Protocol (MCP)</b>, bridging LLMs with industrial penetration testing tools, automated metrology validation pipelines, and secure low-level systems.
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vishal-chauhan-620283378"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21262D" height="34"/></a>
+  <a href="mailto:mrvishalsinghchauhan01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21262D" height="34"/></a>
+  <a href="https://github.com/mr-vishal-singh01"><img src="https://img.shields.io/badge/GITHUB-MY_REPOS-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=21262D" height="34"/></a>
+  <a href="https://github.com/mr-vishal-singh01/OIML-NAWI-METROLOGY-TESTER-R-76"><img src="https://img.shields.io/badge/SIH_2026-METROLOGY_TESTER-238636?style=for-the-badge&logo=target&logoColor=white&labelColor=21262D" height="34"/></a>
+  <a href="https://github.com/mr-vishal-singh01/mr-vishal-singh01/wiki"><img src="https://img.shields.io/badge/WIKI-DIGITAL_GARDEN-388BFD?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=21262D" height="34"/></a>
+</div>
+
+<br>
+
+<details>
+  <summary><b>📋 View Structured Biography & Credentials (Click to Expand)</b></summary>
+  <br>
+  <ul>
+    <li>🎓 <b>University & College:</b> Krishna Group of Institutions (AKTU)</li>
+    <li>📊 <b>Specialization:</b> Artificial Intelligence, Machine Learning & Cybersecurity (SGPA: 8.5 / 10)</li>
+    <li>📍 <b>Location:</b> Kanpur, Uttar Pradesh, India 🇮🇳</li>
+    <li>🏆 <b>National Recognition:</b> <b>Smart India Hackathon 2026 Architect (SIH26035)</b> — Sovereign OIML R-76 Guided Metrology Testing Suite & PTB DCC XML</li>
+    <li>💼 <b>Core Research:</b> Autonomous Multi-Agent Systems, Model Context Protocol (MCP), Local LLM Orchestration</li>
+    <li>🛡️ <b>Cybersecurity Practice:</b> Industrial Penetration Testing, WPA2/WPA3 Wireless Auditing, Exploit Defense</li>
+    <li>⚡ <b>Systems Engineering:</b> High-performance C binary file persistence, Linux Kernel & Systemd Hardening</li>
+    <li>🟢 <b>Availability:</b> Open to Summer Internships, Research Collaborations, and Open-Source Initiatives</li>
+    <li>🎯 <b>Primary Focus:</b> Autonomous AI Agents • Industrial Pentesting Toolchains • Metrology Software</li>
+    <li>📚 <b>Relevant Coursework:</b> DSA, Machine Learning, Deep Learning, DBMS, OS, Computer Networks, Cryptography</li>
+  </ul>
+  <blockquote>
+    <i>"Building sovereign, privacy-preserving AI systems and engineering resilient security architectures for next-generation computing."</i>
+  </blockquote>
+  <p>
+    I design and build local-first autonomous agent ecosystems using the <b>Model Context Protocol (MCP)</b>, bridging LLMs with industrial penetration testing tools, automated metrology validation pipelines, and secure low-level systems.
+  </p>
+</details>
 <!-- ABOUT_ME_END -->
 
 <br>
