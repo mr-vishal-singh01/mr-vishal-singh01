@@ -7,7 +7,8 @@ token = os.environ.get("METRICS_TOKEN")
 
 def get_latest_projects():
     headers = {}
-    if token: headers["Authorization"] = f"bearer {token}"
+    if token:
+        headers["Authorization"] = f"bearer {token}"
     response = httpx.get(
         f"https://api.github.com/users/{username}/repos?sort=created&direction=desc",
         headers=headers
@@ -16,40 +17,45 @@ def get_latest_projects():
     
     featured = []
     for repo in repos:
-        if repo["name"] != username and not repo["fork"]:
+        if repo.get("name") != username and not repo.get("fork"):
             featured.append(repo)
-            if len(featured) == 4: break
+            if len(featured) == 4:
+                break
     return featured
 
 def generate_html_table(projects):
-    html = "<table bordercolor=\"#30363d\">\n  <tr>\n"
+    html = '<table bordercolor="#FF4500">\n  <tr>\n'
     for i, p in enumerate(projects):
-        if i > 0 and i % 2 == 0: html += "  </tr>\n  <tr>\n"
-        desc = p["description"] if p["description"] else "No description provided."
-        html += f"'''
-    <td width="50%" valign="top">
-      <h3 align="center">{p["clone_url"].endswith('ssh') and "repo"  or "🤅 " } {p["name"]}</h3>
+        if i > 0 and i % 2 == 0:
+            html += "  </tr>\n  <tr>\n"
+        desc = p.get("description") or "No description provided."
+        name = p.get("name", "")
+        url = p.get("html_url", f"https://github.com/{username}/{name}")
+        html += f"""    <td width="50%" valign="top">
+      <h3 align="center">🚀 <font color="#FFA500">{name}</font></h3>
       <p>{desc}</p>
       <div align="center">
-        <a href="{p["chtml_url"]}"><img src="https://img.shields.io/badge/View_Source-Repository-2ea44f?style=for-the-badge&logo=github"/></a>
+        <a href="{url}"><img src="https://img.shields.io/badge/View_Source-Repository-FF4500?style=for-the-badge&logo=github"/></a>
       </div>
     </td>
-','"
-    html += "  </tr>\n  </table>"
+"""
+    html += "  </tr>\n</table>"
     return html
 
-projects = get_latest_projects()
-new_table = generate_html_table(projects)
+if __name__ == "__main__":
+    projects = get_latest_projects()
+    if projects:
+        new_table = generate_html_table(projects)
+        readme_path = os.path.join(os.path.dirname(__file__), "..", "README.md")
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-with open(lREADME.md", "r", encoding="latin-1") as f:
-    content = f.read()
+        new_content = re.sub(
+            r"<!-- PROJECTS_START -->.*<!-- PROJECTS_END -->",
+            f"<!-- PROJECTS_START -->\n{new_table}\n<!-- PROJECTS_END -->",
+            content,
+            flags=re.DOTALL
+        )
 
-new_content = re.sub(
-    r\"<!-- PROJECTS_START -->.*<!-- PROJECTS_END -->\",
-    f"<!-- PROJECTS_START -->\n{new_table}\n <!-- PROJECTS_END -->",
-    content,
-    flags=re.DOTALL
-)
-
-with open("README.md", "w", encoding="latin-1") as f:
-    f.write(new_content)
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
